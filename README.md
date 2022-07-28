@@ -1,7 +1,7 @@
 # CloneCoinMarketCap
 
 ## Descripción 
-Este proyecto esta basado en la página CoinMarketCap, con el objetivo de desarrollar algunas de sus funcionalidades y vistas realizadas con el framework de Angular. 
+Este proyecto esta basado en la página CoinMarketCap, con el objetivo de desarrollar algunas de sus funcionalidades y vistas con el framework de Angular. 
 A continuación se muestran las vistas desarrolladas por el equipo durante el bootcamp de especialización de Angular en Silabuz.
 
 
